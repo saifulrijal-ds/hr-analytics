@@ -7,6 +7,9 @@ name = "pypi"
 jupyter = "*"
 pandas = "*"
 scipy = "*"
+pipenv = "*"
+pyprojroot = "*"
+openpyxl = "*"
 
 [dev-packages]
 
